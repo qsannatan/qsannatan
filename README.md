@@ -1,35 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sanatan Niraula</h1>
-<h3 align="center">A passionate learner</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qsannatan&label=Profile%20views&color=0e75b6&style=flat" alt="qsannatan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qsannatan" alt="qsannatan" /></a> </p>
-
-- 🌱 I’m currently learning **python**
-
-- 🤝 I’m looking for help with **python, machine learning**
-
-- 📫 How to reach me **stake5819@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sannmm4466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sannmm4466" height="30" width="40" /></a>
-</p>
-## Hi there 👋
-
-<!--
-**qsannatan/qsannatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 # 💫 About Me:
 I am learning python.<br>I want to learn Machinee Learning.
 
@@ -44,6 +12,9 @@ I am learning python.<br>I want to learn Machinee Learning.
 ![](https://streak-stats.demolab.com/?user=qsannatan &theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=qsannatan &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qsannatan &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -54,4 +25,3 @@ I am learning python.<br>I want to learn Machinee Learning.
 [![](https://komarev.com/ghpvc/?username=qsannatan &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
